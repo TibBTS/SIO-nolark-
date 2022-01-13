@@ -48,6 +48,6 @@ table th {
     margin-top: 25px;
 }
 
-#sectionediteur {
-    line-height: 140%;
+.sousTitre {
+   margin: 30px 0px 25px 25px;
 }
