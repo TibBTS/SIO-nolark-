@@ -47,3 +47,7 @@ table th {
     font-size: x-large;
     margin-top: 25px;
 }
+
+#sectionediteur {
+    line-height: 140%;
+}
