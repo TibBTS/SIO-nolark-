@@ -24,10 +24,11 @@
             <p>Conformément aux dispositions des Articles 6-III et 19 de la Loi n°2004-575 du 21 juin 2004 pour la Confiance dans l'économie numérique, dite L.C.E.N., il est porté à la connaissance des utilisateurs et visiteurs du site nolark.gil83.fr les présentes mentions légales.</p>
             <p>Le site Nolark est accessible à l'adresse suivante&nbsp;:&nbsp;nolark.gil83.fr (ci-après "<i>le site</i>"). L'accès et l'utilisation du Site sont soumis aux présentes "Mentions légales" détaillées ci-après ainsi qu'aux lois et/ou règlements applicables. La connexion, l'utilisation et l'accès à ce site impliquent l'acceptation intégrale et sans réserve de l'internaute de toutes les dispositions des présentes Mentions Légales.</p>
             <p class="titresArticles">Article 1 - Informations légales</p>
-            <p>En vertu de l'Article 6 de la Loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé dans cet article l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi.</p>
-            <p><b>A. Éditeur du site</b></p>
-            <p>Le site Nolark est édité par :</p>
-            <p><strong>Amélia PILOU</strong></p>
+            <section id="sectionediteur"><p>En vertu de l'Article 6 de la Loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé dans cet article l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi.</p>
+                <p><b>A. Éditeur du site</b></p>
+                <p>Le site Nolark est édité par :</p>
+                <p><strong>Amélia PILOU</strong></p>
+            </section>
             <p>domiciliée à l'adresse suivante&nbsp;:&nbsp;Avenue Winston Churchill, 83000 Toulon, et immatriculé au numéro suivant&nbsp;:&nbsp;RCS 123456789</p>
             <p>Téléphone&nbsp;:&nbsp;0102030405</p>
             <p>Adresse e-mail&nbsp;:&nbsp;contact@nolark.gil83.fr</p>
